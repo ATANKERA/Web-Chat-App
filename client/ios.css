@@ -124,6 +124,7 @@ form div:nth-child(2) {
 
 button {
   border: none;
+background: url('https://api.iconify.design/ion-ios-send.svg') no-repeat center center / contain;
   color: #0a93f6;
   background-color: transparent;
   padding: 10px;
